@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Waffle with Berries",
+        "price": 6.5,
+        "image": "../Images/image1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Vanilla Bean Crème Brûlée",
+        "price": 7.0,
+        "image": "../Images/image2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Macaron Mix of Five",
+        "price": 8.0,
+        "image": "../Images/image3.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Waffle with Berries",
+        "price": 6.5,
+        "image": "../Images/image4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Vanilla Bean Crème Brûlée",
+        "price": 7.0,
+        "image": "../Images/image5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Macaron Mix of Five",
+        "price": 8.0,
+        "image": "../Images/image6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Macaron Mix of Five",
+        "price": 8.0,
+        "image": "../Images/image7.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Waffle with Berries",
+        "price": 6.5,
+        "image": "../Images/image8.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Vanilla Bean Crème Brûlée",
+        "price": 7.0,
+        "image": "../Images/image1.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Macaron Mix of Five",
+        "price": 8.0,
+        "image": "../Images/image2.jpeg"
+    }
+]
